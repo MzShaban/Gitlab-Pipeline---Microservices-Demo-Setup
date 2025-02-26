@@ -58,7 +58,7 @@ git push -u origin main
 
 Note: Replace myprojects with your GitLab username or group.
 
-![alt text](https://github.com/MzShaban/Devops-projects/blob/main/Images/Images/repository-microservices-demo.png?raw=true)
+![alt text](https://github.com/MzShaban/Devops-projects/blob/main/Images/repository-microservices-demo.png?raw=true)
 
 
 ### Step 5: Run GitLab Runner in Docker
