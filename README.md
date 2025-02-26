@@ -58,7 +58,7 @@ git push -u origin main
 
 Note: Replace myprojects with your GitLab username or group.
 
-![alt text](https://github.com/MzShaban/Devops-projects/blob/main/Images/Images/repository-microservices-demo?raw=true)
+![alt text](https://github.com/MzShaban/Devops-projects/blob/main/Images/Images/repository-microservices-demo.png?raw=true)
 
 
 ### Step 5: Run GitLab Runner in Docker
@@ -123,7 +123,7 @@ Save and restart the Runner:
 docker restart gitlab-runner
 ```
 
-![alt text](https://github.com/MzShaban/Devops-projects/blob/main/Images/runner-microservices-demo?raw=true)
+![alt text](https://github.com/MzShaban/Devops-projects/blob/main/Images/runner-microservices-demo.png?raw=true)
 
 
 ### Step 8: Create Dockerfile for Frontend
@@ -232,8 +232,8 @@ git push origin main
 
 Go to GitLab UI > CI/CD > Pipelines to check the pipeline status.
 
-![alt text](https://github.com/MzShaban/Devops-projects/blob/main/Images/pipeline-microservices-demo?raw=true)
+![alt text](https://github.com/MzShaban/Devops-projects/blob/main/Images/pipeline-microservices-demo.png?raw=true)
 
 ## The Docker image is pushed in the docker hub as a result
 
-![alt text](https://github.com/MzShaban/Devops-projects/blob/main/Images/dockerimagemicroservices?raw=true)
+![alt text](https://github.com/MzShaban/Devops-projects/blob/main/Images/dockerimagemicroservices.png?raw=true)
